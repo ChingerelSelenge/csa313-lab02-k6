@@ -19,8 +19,10 @@
 - `results/run-05vu.txt`
 - `results/run-30vu.txt`
 - `results/run-100vu.txt`
+- `results/run-stagesvu.txt` stages ашигласан үр дүн
 - `results/threshold-pass.txt`
 - `results/threshold-fail.txt` 
+- `screenshots` нотлох баримт  
 
 ---
  
